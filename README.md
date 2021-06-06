@@ -1,2 +1,2 @@
 # AnimalesSalvajes-MatiasPintoDiaz
-3ra prueba curso js
+3ra prueba bootcamp js
