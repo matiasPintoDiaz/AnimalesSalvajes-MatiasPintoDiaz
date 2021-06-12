@@ -48,3 +48,23 @@ body {
     max-width: 85% !important;
 }
 
+/*TAMAÑO IMAGEN PREVIEW*/
+#preview{
+  text-align: center;
+  height: auto;
+  width: auto;
+}
+
+#preview img{
+  width: 17em;
+  height: 15em;
+}
+
+/*DISEÑO DE CARDS ANIMALES*/
+.tarjetas{
+  margin: 5px;
+}
+
+.tarjetas img{
+  height: 7em;
+}
